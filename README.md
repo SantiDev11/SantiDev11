@@ -1,7 +1,7 @@
 <!-- Encabezado -->
 <div align="center">
 
-# 💻 Kevin
+# 💻 Kevin Santiago Pedraza Ortiz
 
 ### Futuro Ingeniero de Software · SENA C.S.E.T
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 Hola, soy Kevin
+## 👋 Hola, soy Kevin Santiago Pedraza Ortiz
 
 Soy estudiante de **Análisis y Desarrollo de Software en el SENA C.S.E.T**, aprendiendo a construir soluciones desde cero.
 Me interesa todo lo que tenga que ver con **Inteligencia Artificial**, el desarrollo web y la programación en Python.
