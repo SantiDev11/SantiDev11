@@ -16,7 +16,7 @@
 
 ## 👋 Hola, soy  Kevin Santiago Pedraza Ortiz
 Soy estudiante de **Análisis y Desarrollo de Software en el SENA C.S.E.T**, aprendiendo a construir soluciones desde cero.
-Me interesa todo lo que tenga que ver con **Inteligencia Artificial**, el desarrollo web y la programación en Python.
+Me interesa todo lo que tenga que ver con **Inteligencia Artificial**, el desarrollo web y la programación en Python y Php.
 
 Estoy dando mis primeros pasos — construyendo una base sólida para llegar lejos 🚀
 
