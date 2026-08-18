@@ -3,7 +3,7 @@
 
 # 💻 Kevin Santiago Pedraza Ortiz
 
-### Futuro Ingeniero de Software · 
+### Futuro Ingeniero de Software 
 
 ![SENA](https://img.shields.io/badge/🎓_SENA_C.S.E.T-Análisis_y_Desarrollo_de_Software-2ea44f?style=flat-square)
 ![Futuro Ingeniero](https://img.shields.io/badge/🚀_Futuro-Ingeniero_de_Software-6f42c1?style=flat-square)
