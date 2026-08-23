@@ -1,13 +1,14 @@
 <!-- Encabezado -->
 <!-- Encabezado -->
+<!-- Encabezado -->
 <div align="center">
 
 # 💻 Kevin Santiago Pedraza Ortiz
 
 ### Futuro Ingeniero de Software
 
-<!-- Asegúrate de que esta imagen esté físicamente subida a los archivos de tu repositorio -->
-
+<!-- Imagen principal con la ruta absoluta correcta apuntando a 'master' -->
+<img src="https://raw.githubusercontent.com/SantiDev11/SantiDev11/master/98ac980f-5e77-4d2b-9782-d704880e4af9.png" width="100%" alt="Kevin Santiago - Futuro Ingeniero de Software - Gamer Developer" />
 
 <br><br>
 
