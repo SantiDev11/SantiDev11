@@ -71,7 +71,7 @@ Estoy dando mis primeros pasos — construyendo una base sólida para llegar lej
 ## 📫 Contáctame
 
 - 💼 [LinkedIn](#)
-- 📧 [Email](#)
+- 📧 [Email](santiago.pedraza.2016@gmail.com)
 
 ---
 
