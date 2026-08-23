@@ -5,12 +5,15 @@
 
 ### Futuro Ingeniero de Software
 
+<div align="center">
+
 <img 
   src="https://raw.githubusercontent.com/SantiDev11/SantiDev11/main/98ac980f-5e77-4d2b-9782-d704880e4af9.png"
   width="100%"
   alt="Kevin Santiago - Futuro Ingeniero de Software - Gamer Developer"
 />
 
+</div>
 ![SENA](https://img.shields.io/badge/🎓_SENA_C.S.E.T-Análisis_y_Desarrollo_de_Software-2ea44f?style=flat-square)
 ![Futuro Ingeniero](https://img.shields.io/badge/🚀_Futuro-Ingeniero_de_Software-6f42c1?style=flat-square)
 ![Colombia](https://img.shields.io/badge/📍_Colombia-blue?style=flat-square)
