@@ -3,19 +3,28 @@
 
 # 💻 Kevin Santiago Pedraza Ortiz
 
-### 🚀 Futuro Ingeniero de Software
+### Futuro Ingeniero de Software
 
-<img src="assets/kevin-dev.png" alt="Kevin Santiago - Futuro Ingeniero de Software" width="700">
+<img 
+  src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/main/98ac980f-5e77-4d2b-9782-d704880e4af9.png"
+  width="100%"
+  alt="Kevin Santiago - Futuro Ingeniero de Software - Gamer Developer"
+/>
 
 ![SENA](https://img.shields.io/badge/🎓_SENA_C.S.E.T-Análisis_y_Desarrollo_de_Software-2ea44f?style=flat-square)
 ![Futuro Ingeniero](https://img.shields.io/badge/🚀_Futuro-Ingeniero_de_Software-6f42c1?style=flat-square)
 ![Colombia](https://img.shields.io/badge/📍_Colombia-blue?style=flat-square)
 ![Estado](https://img.shields.io/badge/Estado-Aprendiendo_🌱-orange?style=flat-square)
+
+</div>
+
 ---
 
-## 👋 Hola, soy  Kevin Santiago Pedraza Ortiz
+## 👋 Hola, soy Kevin Santiago Pedraza Ortiz
+
 Soy estudiante de **Análisis y Desarrollo de Software en el SENA C.S.E.T**, aprendiendo a construir soluciones desde cero.
-Me interesa todo lo que tenga que ver con **Inteligencia Artificial**, el desarrollo web y la programación en Python y Php.
+
+Me interesa todo lo que tenga que ver con **Inteligencia Artificial**, el desarrollo web y la programación en **Python y PHP**.
 
 Estoy dando mis primeros pasos — construyendo una base sólida para llegar lejos 🚀
 
@@ -70,12 +79,14 @@ Estoy dando mis primeros pasos — construyendo una base sólida para llegar lej
 ## 📫 Contáctame
 
 - 💼 [LinkedIn](#)
-- 📧 [Email](santiago.pedraza.2016@gmail.com)
+- 📧 [Email](mailto:santiago.pedraza.2016@gmail.com)
 
 ---
 
 <div align="center">
 
-Gracias por visitar mi perfil 🙌 — Aprendiendo un día a la vez.
+### Gracias por visitar mi perfil 🙌
+
+**Aprendiendo un día a la vez. 🚀💚**
 
 </div>
