@@ -6,7 +6,7 @@
 ### Futuro Ingeniero de Software
 
 <img 
-  src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/main/98ac980f-5e77-4d2b-9782-d704880e4af9.png"
+  src="https://raw.githubusercontent.com/SantiDev11/SantiDev11/main/98ac980f-5e77-4d2b-9782-d704880e4af9.png"
   width="100%"
   alt="Kevin Santiago - Futuro Ingeniero de Software - Gamer Developer"
 />
