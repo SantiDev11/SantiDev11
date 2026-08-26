@@ -63,27 +63,10 @@ Estoy dando mis primeros pasos — construyendo una base sólida para llegar lej
 - 📚 **SENA C.S.E.T** — Análisis y Desarrollo de Software
 
 ---
-La migración de código está validada.
-
-Ahora quiero preparar la migración de infraestructura de Render de dos servicios a un único Web Service, SIN modificar código todavía.
-
-Analiza el estado actual del proyecto y dime:
-
-1. Qué servicio de Render representa actualmente el frontend.
-2. Qué servicio representa actualmente el backend.
-3. Qué Dockerfile / comando / puerto utiliza cada uno.
-4. Cómo debería quedar el único Web Service usando la imagen Docker multi-stage actual.
-5. Qué variables de entorno necesita.
-6. Qué URL debería conservarse como URL pública.
-7. Qué configuración del servicio anterior dejaría de ser necesaria.
-8. Qué pasos exactos debo realizar en el panel de Render.
-
-NO hagas ningún cambio de Git.
-NO hagas commits.
-NO hagas push.
-NO modifiques código.
-
-Solo dame el procedimiento de migración y cualquier riesgo que debamos revisar antes de hacerlo.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=santidev11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=santidev11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=santidev11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 📊 Mi progreso
 
 <div align="center">
