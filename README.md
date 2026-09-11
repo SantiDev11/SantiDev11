@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/🎓_SENA_C.S.E.T-Análisis_y_Desarrollo_de_Software-2ea44f?style=flat-square" alt="SENA" />
-  <img src="https://img.shields.io/badge/🚀_Futuro-Ingeniero_de_Software-6f42c1?style=flat-square" alt="Futuro Ingeniero" />
+  <img src="https://img.shields.io/badge/🚀_Futuro-Ingeniero_de_Software-2ea44f?style=flat-square" alt="Futuro Ingeniero" />
   <img src="https://img.shields.io/badge/📍_Colombia-blue?style=flat-square" alt="Colombia" />
   <img src="https://img.shields.io/badge/Estado-Aprendiendo_🌱-orange?style=flat-square" alt="Estado" />
 </div>
@@ -60,10 +60,10 @@ Estoy dando mis primeros pasos — construyendo una base sólida para llegar lej
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=santidev11&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=santidev11&theme=radical&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=santidev11&theme=github_dark&title_color=39d353&icon_color=39d353&border_color=39d353&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=santidev11&theme=github_dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=santidev11&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=santidev11&theme=github_dark&title_color=39d353&icon_color=39d353&border_color=39d353&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
