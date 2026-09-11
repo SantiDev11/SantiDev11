@@ -1,6 +1,6 @@
 <!-- Banner ondulante animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:2ea44f&height=200&section=header&text=Kevin%20Santiago%20Pedraza%20Ortiz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Futuro%20Ingeniero%20de%20Software%20%7C%20SENA%20-%20ADSO&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=200&section=header&text=Kevin%20Pedraza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
 <p align="center">
@@ -105,6 +105,6 @@ Estoy dando mis primeros pasos — construyendo una base sólida para llegar lej
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:6f42c1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=120&section=footer" width="100%"/>
 
 <p align="center"><b>Gracias por visitar mi perfil 🙌 — Aprendiendo un día a la vez 🚀💚</b></p>
