@@ -75,7 +75,7 @@ Estoy dando mis primeros pasos — construyendo una base sólida para llegar lej
 ## 🏆 Trofeos (animados)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SantiDev11&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="trophy" />
+  <img src="https://github-trophies.vercel.app/?username=SantiDev11&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="trophy" />
 </div>
 
 ## 👾 Mis contribuciones 
